@@ -22,31 +22,31 @@ from magenta.music import encoder_decoder
 # based on drum sound and function.
 DEFAULT_DRUM_TYPE_PITCHES = [
     # kick drum
-    [36, 35],
+    [36],
 
     # snare drum
-    [38, 27, 28, 31, 32, 33, 34, 37, 39, 40, 56, 65, 66, 75, 85],
+    [38],
 
     # closed hi-hat
-    [42, 44, 54, 68, 69, 70, 71, 73, 78, 80, 22],
+    [42],
 
     # open hi-hat
-    [46, 67, 72, 74, 79, 81, 26],
+    [46],
 
     # low tom
-    [45, 29, 41, 43, 61, 64, 84],
+    [45],
 
     # mid tom
-    [48, 47, 60, 63, 77, 86, 87],
+    [48],
 
     # high tom
-    [50, 30, 62, 76, 83],
+    [50],
 
     # crash cymbal
-    [49, 52, 55, 57, 58],
+    [49],
 
     # ride cymbal
-    [51, 53, 59, 82]
+    [51]
 ]
 
 
